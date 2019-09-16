@@ -1,4 +1,3 @@
 # you_project
-我的第一个github库,我好!
-第一个库
-远程
+作者的第一个github库
+作为test使用
