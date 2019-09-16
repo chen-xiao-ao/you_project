@@ -1,3 +1,4 @@
 # you_project
-作者的第一个github库
-作为test使用
+作者的第一个github库作为test使用
+主要内容为学习软件测试后每天需要更新的复习计划内容
+复习linux命令,当天内容熟练使用
